@@ -1,0 +1,5 @@
+- setup:
+    - install python
+    - cd to the program directory and run: pip install -r requirements.txt
+
+- execution: python app.py
